@@ -248,6 +248,7 @@ This command lists all stashed changesets.
 
 Git Stash Command - Git Commands - Edureka
 
+
 Usage: git stash drop  
 
 This command discards the most recently stashed changeset.
@@ -255,3 +256,6 @@ This command discards the most recently stashed changeset.
 Git Stash Command - Git Commands - Edureka
 
 DZone’s previously covered how to automate deployments for Mule 4 applications with Gitlab. Want to learn more about git commands? Here’s a guide to using Git and GitHub to get you started. Alternatively, you can take a top-down approach and start with this DevOps Tutorial.
+
+
+![alt text](image.png)
