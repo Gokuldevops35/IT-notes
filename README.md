@@ -1,1 +1,4 @@
-	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
+## Gokul here
+
+## Education MCA -2021 passedout
